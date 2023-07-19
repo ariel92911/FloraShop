@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/FloraShop/static/css/main.e2bfae97.css",
+    "main.js": "/FloraShop/static/js/main.d1c180f1.js",
+    "static/media/banner1.png": "/FloraShop/static/media/banner1.797521e6b144b11abca9.png",
+    "static/media/banner2.png": "/FloraShop/static/media/banner2.3bffbf6603e18d30fc19.png",
+    "static/media/banner3.png": "/FloraShop/static/media/banner3.572a4a736b596942ca72.png",
+    "static/media/carousel3.png": "/FloraShop/static/media/carousel3.f07707f82d22dabc8bca.png",
+    "static/media/carousel1.png": "/FloraShop/static/media/carousel1.50e5a6ee71391fe55ae5.png",
+    "static/media/carousel2.png": "/FloraShop/static/media/carousel2.957427a9d3a04ec7240d.png",
+    "static/media/banner4.png": "/FloraShop/static/media/banner4.ac0f95c023c7685409ec.png",
+    "static/media/course2.jpg": "/FloraShop/static/media/course2.22f8bbb4c71978a14389.jpg",
+    "static/media/NAKED.jpg": "/FloraShop/static/media/NAKED.139b356828d87ae23a59.jpg",
+    "static/media/case1.jpg": "/FloraShop/static/media/case1.24b4d11f9635973c22a5.jpg",
+    "static/media/case3.jpg": "/FloraShop/static/media/case3.8f35868e9af730060bbc.jpg",
+    "static/media/course1.jpg": "/FloraShop/static/media/course1.3bd1a5693991e9bfb43c.jpg",
+    "static/media/design1.jpg": "/FloraShop/static/media/design1.e8d5645af234ee5ddca2.jpg",
+    "static/media/about.jpg": "/FloraShop/static/media/about.fba6ca6d9488e4921369.jpg",
+    "static/media/case2.jpg": "/FloraShop/static/media/case2.648740c492f0a743d127.jpg",
+    "static/media/design2.jpg": "/FloraShop/static/media/design2.530bc97b2e3de8651a41.jpg",
+    "static/media/TABLE.jpg": "/FloraShop/static/media/TABLE.98f8357a929122c6d53d.jpg",
+    "static/media/CANVAS.jpg": "/FloraShop/static/media/CANVAS.3619491fbd0566244f82.jpg",
+    "static/media/WREATH.jpg": "/FloraShop/static/media/WREATH.2d44682405a7db7e5dd0.jpg",
+    "static/media/FLORA.jpg": "/FloraShop/static/media/FLORA.587aeb6441d4b001b284.jpg",
+    "static/media/slick.svg": "/FloraShop/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/FloraShop/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/FloraShop/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/FloraShop/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/FloraShop/index.html",
+    "main.e2bfae97.css.map": "/FloraShop/static/css/main.e2bfae97.css.map",
+    "main.d1c180f1.js.map": "/FloraShop/static/js/main.d1c180f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2bfae97.css",
+    "static/js/main.d1c180f1.js"
+  ]
+}
