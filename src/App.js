@@ -37,9 +37,8 @@ function App() {
             <Route path="/products" element={<Products />} />
             <Route path="/products/:product" element={<ProductDetail />} />
             <Route path="/contact" element={<Contact />} />
+            <Route path="*" element={<Home />} />
           </Route>
-
-          <Route path="*" element={<Home />} />
         </Routes>
       </ThemeProvider>
     </BrowserRouter>
