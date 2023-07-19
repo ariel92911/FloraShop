@@ -39,7 +39,7 @@ function App() {
             <Route path="/contact" element={<Contact />} />
           </Route>
 
-          <Route path="*" element={<NotFoundPage />} />
+          <Route path="*" element={<Home />} />
         </Routes>
       </ThemeProvider>
     </BrowserRouter>
