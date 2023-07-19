@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FloraShop/static/css/main.e2bfae97.css",
-    "main.js": "/FloraShop/static/js/main.d1c180f1.js",
+    "main.js": "/FloraShop/static/js/main.a15ba6ea.js",
     "static/media/banner1.png": "/FloraShop/static/media/banner1.797521e6b144b11abca9.png",
     "static/media/banner2.png": "/FloraShop/static/media/banner2.3bffbf6603e18d30fc19.png",
     "static/media/banner3.png": "/FloraShop/static/media/banner3.572a4a736b596942ca72.png",
@@ -28,10 +28,10 @@
     "static/media/slick.woff": "/FloraShop/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/FloraShop/index.html",
     "main.e2bfae97.css.map": "/FloraShop/static/css/main.e2bfae97.css.map",
-    "main.d1c180f1.js.map": "/FloraShop/static/js/main.d1c180f1.js.map"
+    "main.a15ba6ea.js.map": "/FloraShop/static/js/main.a15ba6ea.js.map"
   },
   "entrypoints": [
     "static/css/main.e2bfae97.css",
-    "static/js/main.d1c180f1.js"
+    "static/js/main.a15ba6ea.js"
   ]
 }
